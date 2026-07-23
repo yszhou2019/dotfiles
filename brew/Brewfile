@@ -1,0 +1,38 @@
+# Cross-platform software keyboard remapper for Linux, macOS and Windows
+brew "kanata"
+# Kubernetes command-line interface
+brew "kubernetes-cli"
+# Open-source, cross-platform JavaScript runtime environment
+brew "node"
+# User interface to the TELNET protocol
+brew "telnet"
+# Vi 'workalike' with many additional features
+brew "vim"
+# Compression and file packaging/archive utility
+brew "zip"
+# UNIX shell (command interpreter)
+brew "zsh"
+# Display management tool
+cask "betterdisplay"
+# Keyboard customiser
+cask "karabiner-elements"
+# Customise mouse behavior
+cask "linearmouse"
+# Move and resize windows using keyboard shortcuts or snap areas
+cask "rectangle"
+# Snip or pin screenshots
+cask "snipaste"
+vscode "anthropic.claude-code"
+vscode "eamodio.gitlens"
+vscode "janisdd.vscode-edit-csv"
+vscode "mechatroner.rainbow-csv"
+vscode "ms-vscode-remote.remote-containers"
+vscode "ms-vscode-remote.remote-ssh"
+vscode "ms-vscode-remote.remote-ssh-edit"
+vscode "ms-vscode-remote.remote-wsl"
+vscode "ms-vscode-remote.vscode-remote-extensionpack"
+vscode "ms-vscode.cpptools-themes"
+vscode "ms-vscode.remote-explorer"
+vscode "ms-vscode.remote-server"
+vscode "openai.chatgpt"
+vscode "yzhang.markdown-all-in-one"
