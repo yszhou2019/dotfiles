@@ -1,0 +1,21 @@
+[user]
+	name = yszhou2019
+	email = 987912102@qq.com
+[alias]
+	ck = checkout
+	br = branch
+	cm = commit
+	st = status
+	df = diff
+	ps = push
+	pl = pull
+	rmt = remote
+[commit]
+	gpgsign = false
+[merge]
+	gpgsign = false
+[revert]
+	gpgsign = false
+[core]
+	editor = vim
+
